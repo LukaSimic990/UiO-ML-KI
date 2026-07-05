@@ -1,1 +1,1 @@
-I denne oppgaven laget jeg et program som simulerer cellers liv eller død. Programmet bruker modellen kalt Conway's Game of Life.
+I denne oppgaven laget jeg et program som simulerer cellers liv eller død. Programmet bruker modellen kalt Conway's Game of Life. Denne versjonen er skrevet i Python.
