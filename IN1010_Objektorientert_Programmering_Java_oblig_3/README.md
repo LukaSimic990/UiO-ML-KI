@@ -1,1 +1,1 @@
-I denne oppgaven laget jeg en rekke beholdere som jeg vil få bruk for i etterfølgende oppgaver. Her er det enkeltlenket beholdere.
+I denne oppgaven laget jeg en rekke beholdere som jeg vil få bruk for i etterfølgende oppgaver. Her er det enkeltlenket beholdere. Den fullstendige oppgavebeskrivelsen ligger i den vedlagte .pdf filen.
